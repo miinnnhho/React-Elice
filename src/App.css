@@ -1,0 +1,8 @@
+h1 {
+    color: red;
+}
+.btn {
+    border-radius: 40%;
+    border: 0;
+    background-color: rgb(198, 202, 201);
+}
